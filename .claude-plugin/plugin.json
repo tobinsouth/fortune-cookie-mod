@@ -4,5 +4,6 @@
   "description": "/fortune cracks open a fortune cookie: one line of wisdom for your coding session, shown in the transcript and as a toast.",
   "author": {
     "name": "Tobin"
-  }
+  },
+  "license": "Apache-2.0"
 }
