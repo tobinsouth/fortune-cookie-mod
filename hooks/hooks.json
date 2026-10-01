@@ -1,0 +1,4 @@
+{
+  "description": "The fortune cookie: /fortune and the toast it pops",
+  "modules": ["./register.ts"]
+}
